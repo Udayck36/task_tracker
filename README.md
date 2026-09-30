@@ -3,3 +3,6 @@
 
 ## Team
 - Project Manager: Uday SCK
+
+## Timeline
+- Hour 2: first Pull request Merged
